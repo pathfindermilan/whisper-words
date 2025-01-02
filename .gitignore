@@ -1,3 +1,6 @@
+data/*
+!.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -171,8 +174,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Data
-data/
-literacy-screening-runtime/data/
-literacy-screening-runtime/submission/log.txt
